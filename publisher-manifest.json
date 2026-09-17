@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "4f3c159ae7d288f655a9d34a",
+  "owner": "huyrg2721",
+  "repo": "huyrg2721.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "47d9ded158ca2d6cd07548c9",
+      "a": "佩奇(Nexitally)",
+      "b": "首页",
+      "entity": "佩奇(Nexitally)",
+      "brand": "首页",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e4e1a64ac33e142abdc04466041b74b6cc207adfad8366fd30dc1551cdd829e1",
+      "content": {
+        "primary_entity": "佩奇(Nexitally)",
+        "keyword1": "佩奇(Nexitally)",
+        "keyword2": "首页",
+        "content": {
+          "AI_CLIENTS_INTRO": "在 Windows、macOS、Android 与 iOS 设备选择对应订阅客户端，路由器端可按固件文档导入配置。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量与流量需求选好套餐，再到客户端完成订阅导入。",
+          "AI_CLOSING_TITLE": "选择适合的订阅方案",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，按设备数量、月流量与线路等级区分，覆盖个人多设备到小型团队使用场景，可依客户端文档导入订阅配置。",
+          "AI_FEATURES_INTRO": "围绕设备数量、流量大小与线路偏好对比三档套餐，选出匹配日常使用的方案。",
+          "AI_FEATURES_TITLE": "套餐选择与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版适合单人少数设备，旗舰版增加设备数与专线优化，团队版面向多设备协作。",
+          "AI_FEATURE_TEXT_2": "按常用设备数量选择在线台数，再结合月流量预估，避免套餐闲置或超额。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付折算后单月更低，长期使用可按年缩短续费频率。",
+          "AI_FEATURE_TITLE_1": "按设备数选档位",
+          "AI_FEATURE_TITLE_2": "按流量估规格",
+          "AI_FEATURE_TITLE_3": "按周期定付费",
+          "AI_GUIDE_INTRO": "先确认使用设备与流量需求，再选择套餐并完成订阅导入。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "佩奇(Nexitally)提供多档海外加速套餐，按设备数量与月流量区分。基础版适合轻度使用，旗舰版加入专线优化，团队版满足多设备协作，均可按客户端文档导入订阅。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数量划分",
+          "AI_HIGHLIGHT_2": "旗舰版含专线优化线路",
+          "AI_HIGHLIGHT_3": "支持月付与年付两种周期",
+          "AI_PLANS_INTRO": "对比三档套餐的设备数量、月流量与线路权益，按实际使用规模选择。",
+          "AI_PLANS_TITLE": "套餐档位对比",
+          "AI_STEP_TEXT_1": "先确认常用设备数量与每月大致流量，再对应基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的在线设备数与线路说明，确认覆盖自己的使用场景。",
+          "AI_STEP_TEXT_3": "在对应设备客户端按文档导入订阅，完成后按提示连接使用。",
+          "AI_STEP_TITLE_1": "选服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "佩奇多档加速方案",
+          "AI_FAQ_ANSWER_1": "基础版适合单人、设备较少且流量需求不高的轻度使用，日常浏览和基础流媒体可以满足。",
+          "AI_FAQ_ANSWER_2": "旗舰版设备数提升至五台，节点解锁更完整，并针对游戏加速优化线路，适合多设备且对流媒体和延迟有要求的用户。",
+          "AI_FAQ_ANSWER_3": "在对应系统的客户端中粘贴订阅链接，保存后按客户端提示更新节点列表，具体以客户端文档为准。",
+          "AI_FAQ_ANSWER_4": "先确认当前套餐支持的设备数量，若不够用可升级到旗舰版或团队版，或让不常用设备退出登录。",
+          "AI_FAQ_ANSWER_5": "基础版与旗舰版面向个人日常使用，团队版提供更高带宽节点和企业定制路由，适合多人共用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐怎么选。",
+          "AI_FAQ_QUESTION_1": "基础版适合什么情况使用？",
+          "AI_FAQ_QUESTION_2": "旗舰版相比基础版多了哪些内容？",
+          "AI_FAQ_QUESTION_3": "订阅链接怎么导入客户端？",
+          "AI_FAQ_QUESTION_4": "设备超出套餐数量限制怎么办？",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些用户？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "9a6068f334c78c0046fbf99b4b6eee28bb57c2a11ae945b8d08d1a3b10127ddf",
+    "sitemap.xml": "12867a73c8da9d9fa321d9bbc1f35da572814fcdb003babe9a3232de3902ce05",
+    "robots.txt": "408248877cd243108c0ac05b9923c607558cc13d85950d6dc290e89f64dda340",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "394fdfd5d4034c62589427d67beb1afaa59e346c824803141543c593e81c7e2c"
+}
